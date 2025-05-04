@@ -2,7 +2,7 @@
 
 > A full-stack “Jobly” job board application with a React front-end and Express/PostgreSQL back-end. Users can sign up, log in, browse and search for jobs, and submit applications.
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![React](https://img.shields.io/badge/react-17%2B-blue)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/node.js-14%2B-green)](https://nodejs.org/) [![PostgreSQL](https://img.shields.io/badge/postgresql-12%2B-blue)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/react-17%2B-blue)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/node.js-14%2B-green)](https://nodejs.org/) [![PostgreSQL](https://img.shields.io/badge/postgresql-12%2B-blue)](https://www.postgresql.org/)
 
 ---
 
